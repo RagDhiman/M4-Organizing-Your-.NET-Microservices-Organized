@@ -1,0 +1,14 @@
+C:\Users\ragub\Source\Repos\RouteProviderOne\RouteProviderOne\RouteProviderOne.DataAccessTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\ragub\Source\Repos\RouteProviderOne\RouteProviderOne\RouteProviderOne.DataAccessTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\ragub\Source\Repos\RouteProviderOne\RouteProviderOne\RouteProviderOne.DataAccessTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\ragub\Source\Repos\RouteProviderOne\RouteProviderOne\RouteProviderOne.DataAccessTests\bin\Debug\netcoreapp2.1\RouteProviderOne.DataAccessTests.deps.json
+C:\Users\ragub\Source\Repos\RouteProviderOne\RouteProviderOne\RouteProviderOne.DataAccessTests\bin\Debug\netcoreapp2.1\RouteProviderOne.DataAccessTests.runtimeconfig.json
+C:\Users\ragub\Source\Repos\RouteProviderOne\RouteProviderOne\RouteProviderOne.DataAccessTests\bin\Debug\netcoreapp2.1\RouteProviderOne.DataAccessTests.runtimeconfig.dev.json
+C:\Users\ragub\Source\Repos\RouteProviderOne\RouteProviderOne\RouteProviderOne.DataAccessTests\bin\Debug\netcoreapp2.1\RouteProviderOne.DataAccessTests.dll
+C:\Users\ragub\Source\Repos\RouteProviderOne\RouteProviderOne\RouteProviderOne.DataAccessTests\bin\Debug\netcoreapp2.1\RouteProviderOne.DataAccessTests.pdb
+C:\Users\ragub\Source\Repos\RouteProviderOne\RouteProviderOne\RouteProviderOne.DataAccessTests\obj\Debug\netcoreapp2.1\RouteProviderOne.DataAccessTests.csprojAssemblyReference.cache
+C:\Users\ragub\Source\Repos\RouteProviderOne\RouteProviderOne\RouteProviderOne.DataAccessTests\obj\Debug\netcoreapp2.1\RouteProviderOne.DataAccessTests.csproj.CoreCompileInputs.cache
+C:\Users\ragub\Source\Repos\RouteProviderOne\RouteProviderOne\RouteProviderOne.DataAccessTests\obj\Debug\netcoreapp2.1\RouteProviderOne.DataAccessTests.AssemblyInfoInputs.cache
+C:\Users\ragub\Source\Repos\RouteProviderOne\RouteProviderOne\RouteProviderOne.DataAccessTests\obj\Debug\netcoreapp2.1\RouteProviderOne.DataAccessTests.AssemblyInfo.cs
+C:\Users\ragub\Source\Repos\RouteProviderOne\RouteProviderOne\RouteProviderOne.DataAccessTests\obj\Debug\netcoreapp2.1\RouteProviderOne.DataAccessTests.dll
+C:\Users\ragub\Source\Repos\RouteProviderOne\RouteProviderOne\RouteProviderOne.DataAccessTests\obj\Debug\netcoreapp2.1\RouteProviderOne.DataAccessTests.pdb

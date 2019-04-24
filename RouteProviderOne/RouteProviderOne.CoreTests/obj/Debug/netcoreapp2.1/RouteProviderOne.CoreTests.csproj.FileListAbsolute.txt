@@ -1,0 +1,14 @@
+C:\Users\ragub\Source\Repos\RouteProviderOne\RouteProviderOne\RouteProviderOne.CoreTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\ragub\Source\Repos\RouteProviderOne\RouteProviderOne\RouteProviderOne.CoreTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\ragub\Source\Repos\RouteProviderOne\RouteProviderOne\RouteProviderOne.CoreTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\ragub\Source\Repos\RouteProviderOne\RouteProviderOne\RouteProviderOne.CoreTests\bin\Debug\netcoreapp2.1\RouteProviderOne.CoreTests.deps.json
+C:\Users\ragub\Source\Repos\RouteProviderOne\RouteProviderOne\RouteProviderOne.CoreTests\bin\Debug\netcoreapp2.1\RouteProviderOne.CoreTests.runtimeconfig.json
+C:\Users\ragub\Source\Repos\RouteProviderOne\RouteProviderOne\RouteProviderOne.CoreTests\bin\Debug\netcoreapp2.1\RouteProviderOne.CoreTests.runtimeconfig.dev.json
+C:\Users\ragub\Source\Repos\RouteProviderOne\RouteProviderOne\RouteProviderOne.CoreTests\bin\Debug\netcoreapp2.1\RouteProviderOne.CoreTests.dll
+C:\Users\ragub\Source\Repos\RouteProviderOne\RouteProviderOne\RouteProviderOne.CoreTests\bin\Debug\netcoreapp2.1\RouteProviderOne.CoreTests.pdb
+C:\Users\ragub\Source\Repos\RouteProviderOne\RouteProviderOne\RouteProviderOne.CoreTests\obj\Debug\netcoreapp2.1\RouteProviderOne.CoreTests.csprojAssemblyReference.cache
+C:\Users\ragub\Source\Repos\RouteProviderOne\RouteProviderOne\RouteProviderOne.CoreTests\obj\Debug\netcoreapp2.1\RouteProviderOne.CoreTests.csproj.CoreCompileInputs.cache
+C:\Users\ragub\Source\Repos\RouteProviderOne\RouteProviderOne\RouteProviderOne.CoreTests\obj\Debug\netcoreapp2.1\RouteProviderOne.CoreTests.AssemblyInfoInputs.cache
+C:\Users\ragub\Source\Repos\RouteProviderOne\RouteProviderOne\RouteProviderOne.CoreTests\obj\Debug\netcoreapp2.1\RouteProviderOne.CoreTests.AssemblyInfo.cs
+C:\Users\ragub\Source\Repos\RouteProviderOne\RouteProviderOne\RouteProviderOne.CoreTests\obj\Debug\netcoreapp2.1\RouteProviderOne.CoreTests.dll
+C:\Users\ragub\Source\Repos\RouteProviderOne\RouteProviderOne\RouteProviderOne.CoreTests\obj\Debug\netcoreapp2.1\RouteProviderOne.CoreTests.pdb

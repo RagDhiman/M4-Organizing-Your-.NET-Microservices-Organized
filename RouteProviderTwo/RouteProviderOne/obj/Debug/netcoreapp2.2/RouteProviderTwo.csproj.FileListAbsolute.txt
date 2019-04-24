@@ -1,0 +1,11 @@
+C:\Users\ragub\Source\Repos\RouteProviderTwo\RouteProviderOne\RouteProviderOne\bin\Debug\netcoreapp2.2\RouteProviderTwo.deps.json
+C:\Users\ragub\Source\Repos\RouteProviderTwo\RouteProviderOne\RouteProviderOne\bin\Debug\netcoreapp2.2\RouteProviderTwo.runtimeconfig.json
+C:\Users\ragub\Source\Repos\RouteProviderTwo\RouteProviderOne\RouteProviderOne\bin\Debug\netcoreapp2.2\RouteProviderTwo.runtimeconfig.dev.json
+C:\Users\ragub\Source\Repos\RouteProviderTwo\RouteProviderOne\RouteProviderOne\bin\Debug\netcoreapp2.2\RouteProviderTwo.dll
+C:\Users\ragub\Source\Repos\RouteProviderTwo\RouteProviderOne\RouteProviderOne\bin\Debug\netcoreapp2.2\RouteProviderTwo.pdb
+C:\Users\ragub\Source\Repos\RouteProviderTwo\RouteProviderOne\RouteProviderOne\obj\Debug\netcoreapp2.2\RouteProviderTwo.csprojAssemblyReference.cache
+C:\Users\ragub\Source\Repos\RouteProviderTwo\RouteProviderOne\RouteProviderOne\obj\Debug\netcoreapp2.2\RouteProviderTwo.csproj.CoreCompileInputs.cache
+C:\Users\ragub\Source\Repos\RouteProviderTwo\RouteProviderOne\RouteProviderOne\obj\Debug\netcoreapp2.2\RouteProviderTwo.AssemblyInfoInputs.cache
+C:\Users\ragub\Source\Repos\RouteProviderTwo\RouteProviderOne\RouteProviderOne\obj\Debug\netcoreapp2.2\RouteProviderTwo.AssemblyInfo.cs
+C:\Users\ragub\Source\Repos\RouteProviderTwo\RouteProviderOne\RouteProviderOne\obj\Debug\netcoreapp2.2\RouteProviderTwo.dll
+C:\Users\ragub\Source\Repos\RouteProviderTwo\RouteProviderOne\RouteProviderOne\obj\Debug\netcoreapp2.2\RouteProviderTwo.pdb

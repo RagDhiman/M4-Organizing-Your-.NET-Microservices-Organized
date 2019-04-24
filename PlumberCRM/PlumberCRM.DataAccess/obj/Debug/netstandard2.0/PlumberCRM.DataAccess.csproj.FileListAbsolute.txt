@@ -1,0 +1,9 @@
+C:\Users\ragub\Source\Repos\PlumberCRM\PlumberCRM\PlumberCRM.DataAccess\bin\Debug\netstandard2.0\PlumberCRM.DataAccess.deps.json
+C:\Users\ragub\Source\Repos\PlumberCRM\PlumberCRM\PlumberCRM.DataAccess\bin\Debug\netstandard2.0\PlumberCRM.DataAccess.dll
+C:\Users\ragub\Source\Repos\PlumberCRM\PlumberCRM\PlumberCRM.DataAccess\bin\Debug\netstandard2.0\PlumberCRM.DataAccess.pdb
+C:\Users\ragub\Source\Repos\PlumberCRM\PlumberCRM\PlumberCRM.DataAccess\obj\Debug\netstandard2.0\PlumberCRM.DataAccess.csprojAssemblyReference.cache
+C:\Users\ragub\Source\Repos\PlumberCRM\PlumberCRM\PlumberCRM.DataAccess\obj\Debug\netstandard2.0\PlumberCRM.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ragub\Source\Repos\PlumberCRM\PlumberCRM\PlumberCRM.DataAccess\obj\Debug\netstandard2.0\PlumberCRM.DataAccess.AssemblyInfoInputs.cache
+C:\Users\ragub\Source\Repos\PlumberCRM\PlumberCRM\PlumberCRM.DataAccess\obj\Debug\netstandard2.0\PlumberCRM.DataAccess.AssemblyInfo.cs
+C:\Users\ragub\Source\Repos\PlumberCRM\PlumberCRM\PlumberCRM.DataAccess\obj\Debug\netstandard2.0\PlumberCRM.DataAccess.dll
+C:\Users\ragub\Source\Repos\PlumberCRM\PlumberCRM\PlumberCRM.DataAccess\obj\Debug\netstandard2.0\PlumberCRM.DataAccess.pdb

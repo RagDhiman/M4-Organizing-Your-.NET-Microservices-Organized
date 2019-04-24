@@ -1,0 +1,14 @@
+C:\Users\ragub\Source\Repos\RouteProviderTwo\RouteProviderOne\RouteProviderTwoTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\ragub\Source\Repos\RouteProviderTwo\RouteProviderOne\RouteProviderTwoTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\ragub\Source\Repos\RouteProviderTwo\RouteProviderOne\RouteProviderTwoTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\ragub\Source\Repos\RouteProviderTwo\RouteProviderOne\RouteProviderTwoTests\bin\Debug\netcoreapp2.1\RouteProviderTwoTests.deps.json
+C:\Users\ragub\Source\Repos\RouteProviderTwo\RouteProviderOne\RouteProviderTwoTests\bin\Debug\netcoreapp2.1\RouteProviderTwoTests.runtimeconfig.json
+C:\Users\ragub\Source\Repos\RouteProviderTwo\RouteProviderOne\RouteProviderTwoTests\bin\Debug\netcoreapp2.1\RouteProviderTwoTests.runtimeconfig.dev.json
+C:\Users\ragub\Source\Repos\RouteProviderTwo\RouteProviderOne\RouteProviderTwoTests\bin\Debug\netcoreapp2.1\RouteProviderTwoTests.dll
+C:\Users\ragub\Source\Repos\RouteProviderTwo\RouteProviderOne\RouteProviderTwoTests\bin\Debug\netcoreapp2.1\RouteProviderTwoTests.pdb
+C:\Users\ragub\Source\Repos\RouteProviderTwo\RouteProviderOne\RouteProviderTwoTests\obj\Debug\netcoreapp2.1\RouteProviderTwoTests.csproj.CoreCompileInputs.cache
+C:\Users\ragub\Source\Repos\RouteProviderTwo\RouteProviderOne\RouteProviderTwoTests\obj\Debug\netcoreapp2.1\RouteProviderTwoTests.AssemblyInfoInputs.cache
+C:\Users\ragub\Source\Repos\RouteProviderTwo\RouteProviderOne\RouteProviderTwoTests\obj\Debug\netcoreapp2.1\RouteProviderTwoTests.AssemblyInfo.cs
+C:\Users\ragub\Source\Repos\RouteProviderTwo\RouteProviderOne\RouteProviderTwoTests\obj\Debug\netcoreapp2.1\RouteProviderTwoTests.dll
+C:\Users\ragub\Source\Repos\RouteProviderTwo\RouteProviderOne\RouteProviderTwoTests\obj\Debug\netcoreapp2.1\RouteProviderTwoTests.pdb
+C:\Users\ragub\Source\Repos\RouteProviderTwo\RouteProviderOne\RouteProviderTwoTests\obj\Debug\netcoreapp2.1\RouteProviderTwoTests.csprojAssemblyReference.cache

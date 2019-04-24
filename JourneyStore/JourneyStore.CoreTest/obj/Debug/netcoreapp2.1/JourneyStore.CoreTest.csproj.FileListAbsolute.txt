@@ -1,0 +1,14 @@
+C:\Users\ragub\Source\Repos\JourneyStore\JourneyStore\JourneyStore.CoreTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\ragub\Source\Repos\JourneyStore\JourneyStore\JourneyStore.CoreTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\ragub\Source\Repos\JourneyStore\JourneyStore\JourneyStore.CoreTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\ragub\Source\Repos\JourneyStore\JourneyStore\JourneyStore.CoreTest\bin\Debug\netcoreapp2.1\JourneyStore.CoreTest.deps.json
+C:\Users\ragub\Source\Repos\JourneyStore\JourneyStore\JourneyStore.CoreTest\bin\Debug\netcoreapp2.1\JourneyStore.CoreTest.runtimeconfig.json
+C:\Users\ragub\Source\Repos\JourneyStore\JourneyStore\JourneyStore.CoreTest\bin\Debug\netcoreapp2.1\JourneyStore.CoreTest.runtimeconfig.dev.json
+C:\Users\ragub\Source\Repos\JourneyStore\JourneyStore\JourneyStore.CoreTest\bin\Debug\netcoreapp2.1\JourneyStore.CoreTest.dll
+C:\Users\ragub\Source\Repos\JourneyStore\JourneyStore\JourneyStore.CoreTest\bin\Debug\netcoreapp2.1\JourneyStore.CoreTest.pdb
+C:\Users\ragub\Source\Repos\JourneyStore\JourneyStore\JourneyStore.CoreTest\obj\Debug\netcoreapp2.1\JourneyStore.CoreTest.csprojAssemblyReference.cache
+C:\Users\ragub\Source\Repos\JourneyStore\JourneyStore\JourneyStore.CoreTest\obj\Debug\netcoreapp2.1\JourneyStore.CoreTest.csproj.CoreCompileInputs.cache
+C:\Users\ragub\Source\Repos\JourneyStore\JourneyStore\JourneyStore.CoreTest\obj\Debug\netcoreapp2.1\JourneyStore.CoreTest.AssemblyInfoInputs.cache
+C:\Users\ragub\Source\Repos\JourneyStore\JourneyStore\JourneyStore.CoreTest\obj\Debug\netcoreapp2.1\JourneyStore.CoreTest.AssemblyInfo.cs
+C:\Users\ragub\Source\Repos\JourneyStore\JourneyStore\JourneyStore.CoreTest\obj\Debug\netcoreapp2.1\JourneyStore.CoreTest.dll
+C:\Users\ragub\Source\Repos\JourneyStore\JourneyStore\JourneyStore.CoreTest\obj\Debug\netcoreapp2.1\JourneyStore.CoreTest.pdb

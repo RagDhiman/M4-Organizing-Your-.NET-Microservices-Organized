@@ -1,0 +1,11 @@
+C:\Users\ragub\Source\Repos\RouteProviderThree\RouteProviderThree\RouteProviderThree\bin\Debug\netcoreapp2.2\RouteProviderThree.deps.json
+C:\Users\ragub\Source\Repos\RouteProviderThree\RouteProviderThree\RouteProviderThree\bin\Debug\netcoreapp2.2\RouteProviderThree.runtimeconfig.json
+C:\Users\ragub\Source\Repos\RouteProviderThree\RouteProviderThree\RouteProviderThree\bin\Debug\netcoreapp2.2\RouteProviderThree.runtimeconfig.dev.json
+C:\Users\ragub\Source\Repos\RouteProviderThree\RouteProviderThree\RouteProviderThree\bin\Debug\netcoreapp2.2\RouteProviderThree.dll
+C:\Users\ragub\Source\Repos\RouteProviderThree\RouteProviderThree\RouteProviderThree\bin\Debug\netcoreapp2.2\RouteProviderThree.pdb
+C:\Users\ragub\Source\Repos\RouteProviderThree\RouteProviderThree\RouteProviderThree\obj\Debug\netcoreapp2.2\RouteProviderThree.csprojAssemblyReference.cache
+C:\Users\ragub\Source\Repos\RouteProviderThree\RouteProviderThree\RouteProviderThree\obj\Debug\netcoreapp2.2\RouteProviderThree.csproj.CoreCompileInputs.cache
+C:\Users\ragub\Source\Repos\RouteProviderThree\RouteProviderThree\RouteProviderThree\obj\Debug\netcoreapp2.2\RouteProviderThree.AssemblyInfoInputs.cache
+C:\Users\ragub\Source\Repos\RouteProviderThree\RouteProviderThree\RouteProviderThree\obj\Debug\netcoreapp2.2\RouteProviderThree.AssemblyInfo.cs
+C:\Users\ragub\Source\Repos\RouteProviderThree\RouteProviderThree\RouteProviderThree\obj\Debug\netcoreapp2.2\RouteProviderThree.dll
+C:\Users\ragub\Source\Repos\RouteProviderThree\RouteProviderThree\RouteProviderThree\obj\Debug\netcoreapp2.2\RouteProviderThree.pdb

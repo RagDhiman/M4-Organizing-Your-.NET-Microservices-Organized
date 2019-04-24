@@ -1,0 +1,9 @@
+C:\Users\ragub\Source\Repos\JourneyStore\JourneyStore\JourneyStore.DataAccess\bin\Debug\netstandard2.0\JourneyStore.DataAccess.deps.json
+C:\Users\ragub\Source\Repos\JourneyStore\JourneyStore\JourneyStore.DataAccess\bin\Debug\netstandard2.0\JourneyStore.DataAccess.dll
+C:\Users\ragub\Source\Repos\JourneyStore\JourneyStore\JourneyStore.DataAccess\bin\Debug\netstandard2.0\JourneyStore.DataAccess.pdb
+C:\Users\ragub\Source\Repos\JourneyStore\JourneyStore\JourneyStore.DataAccess\obj\Debug\netstandard2.0\JourneyStore.DataAccess.csprojAssemblyReference.cache
+C:\Users\ragub\Source\Repos\JourneyStore\JourneyStore\JourneyStore.DataAccess\obj\Debug\netstandard2.0\JourneyStore.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ragub\Source\Repos\JourneyStore\JourneyStore\JourneyStore.DataAccess\obj\Debug\netstandard2.0\JourneyStore.DataAccess.AssemblyInfoInputs.cache
+C:\Users\ragub\Source\Repos\JourneyStore\JourneyStore\JourneyStore.DataAccess\obj\Debug\netstandard2.0\JourneyStore.DataAccess.AssemblyInfo.cs
+C:\Users\ragub\Source\Repos\JourneyStore\JourneyStore\JourneyStore.DataAccess\obj\Debug\netstandard2.0\JourneyStore.DataAccess.dll
+C:\Users\ragub\Source\Repos\JourneyStore\JourneyStore\JourneyStore.DataAccess\obj\Debug\netstandard2.0\JourneyStore.DataAccess.pdb

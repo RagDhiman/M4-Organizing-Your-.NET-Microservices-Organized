@@ -1,0 +1,14 @@
+C:\Users\ragub\Source\Repos\JourneyStore\JourneyStore\JourneyStoreTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\ragub\Source\Repos\JourneyStore\JourneyStore\JourneyStoreTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\ragub\Source\Repos\JourneyStore\JourneyStore\JourneyStoreTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\ragub\Source\Repos\JourneyStore\JourneyStore\JourneyStoreTest\bin\Debug\netcoreapp2.1\JourneyStoreTest.deps.json
+C:\Users\ragub\Source\Repos\JourneyStore\JourneyStore\JourneyStoreTest\bin\Debug\netcoreapp2.1\JourneyStoreTest.runtimeconfig.json
+C:\Users\ragub\Source\Repos\JourneyStore\JourneyStore\JourneyStoreTest\bin\Debug\netcoreapp2.1\JourneyStoreTest.runtimeconfig.dev.json
+C:\Users\ragub\Source\Repos\JourneyStore\JourneyStore\JourneyStoreTest\bin\Debug\netcoreapp2.1\JourneyStoreTest.dll
+C:\Users\ragub\Source\Repos\JourneyStore\JourneyStore\JourneyStoreTest\bin\Debug\netcoreapp2.1\JourneyStoreTest.pdb
+C:\Users\ragub\Source\Repos\JourneyStore\JourneyStore\JourneyStoreTest\obj\Debug\netcoreapp2.1\JourneyStoreTest.csprojAssemblyReference.cache
+C:\Users\ragub\Source\Repos\JourneyStore\JourneyStore\JourneyStoreTest\obj\Debug\netcoreapp2.1\JourneyStoreTest.csproj.CoreCompileInputs.cache
+C:\Users\ragub\Source\Repos\JourneyStore\JourneyStore\JourneyStoreTest\obj\Debug\netcoreapp2.1\JourneyStoreTest.AssemblyInfoInputs.cache
+C:\Users\ragub\Source\Repos\JourneyStore\JourneyStore\JourneyStoreTest\obj\Debug\netcoreapp2.1\JourneyStoreTest.AssemblyInfo.cs
+C:\Users\ragub\Source\Repos\JourneyStore\JourneyStore\JourneyStoreTest\obj\Debug\netcoreapp2.1\JourneyStoreTest.dll
+C:\Users\ragub\Source\Repos\JourneyStore\JourneyStore\JourneyStoreTest\obj\Debug\netcoreapp2.1\JourneyStoreTest.pdb

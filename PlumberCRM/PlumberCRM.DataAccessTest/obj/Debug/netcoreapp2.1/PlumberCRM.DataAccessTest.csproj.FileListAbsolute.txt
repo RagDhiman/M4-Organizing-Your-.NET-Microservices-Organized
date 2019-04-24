@@ -1,0 +1,14 @@
+C:\Users\ragub\Source\Repos\PlumberCRM\PlumberCRM\PlumberCRM.DataAccessTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\ragub\Source\Repos\PlumberCRM\PlumberCRM\PlumberCRM.DataAccessTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\ragub\Source\Repos\PlumberCRM\PlumberCRM\PlumberCRM.DataAccessTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\ragub\Source\Repos\PlumberCRM\PlumberCRM\PlumberCRM.DataAccessTest\bin\Debug\netcoreapp2.1\PlumberCRM.DataAccessTest.deps.json
+C:\Users\ragub\Source\Repos\PlumberCRM\PlumberCRM\PlumberCRM.DataAccessTest\bin\Debug\netcoreapp2.1\PlumberCRM.DataAccessTest.runtimeconfig.json
+C:\Users\ragub\Source\Repos\PlumberCRM\PlumberCRM\PlumberCRM.DataAccessTest\bin\Debug\netcoreapp2.1\PlumberCRM.DataAccessTest.runtimeconfig.dev.json
+C:\Users\ragub\Source\Repos\PlumberCRM\PlumberCRM\PlumberCRM.DataAccessTest\bin\Debug\netcoreapp2.1\PlumberCRM.DataAccessTest.dll
+C:\Users\ragub\Source\Repos\PlumberCRM\PlumberCRM\PlumberCRM.DataAccessTest\bin\Debug\netcoreapp2.1\PlumberCRM.DataAccessTest.pdb
+C:\Users\ragub\Source\Repos\PlumberCRM\PlumberCRM\PlumberCRM.DataAccessTest\obj\Debug\netcoreapp2.1\PlumberCRM.DataAccessTest.csprojAssemblyReference.cache
+C:\Users\ragub\Source\Repos\PlumberCRM\PlumberCRM\PlumberCRM.DataAccessTest\obj\Debug\netcoreapp2.1\PlumberCRM.DataAccessTest.csproj.CoreCompileInputs.cache
+C:\Users\ragub\Source\Repos\PlumberCRM\PlumberCRM\PlumberCRM.DataAccessTest\obj\Debug\netcoreapp2.1\PlumberCRM.DataAccessTest.AssemblyInfoInputs.cache
+C:\Users\ragub\Source\Repos\PlumberCRM\PlumberCRM\PlumberCRM.DataAccessTest\obj\Debug\netcoreapp2.1\PlumberCRM.DataAccessTest.AssemblyInfo.cs
+C:\Users\ragub\Source\Repos\PlumberCRM\PlumberCRM\PlumberCRM.DataAccessTest\obj\Debug\netcoreapp2.1\PlumberCRM.DataAccessTest.dll
+C:\Users\ragub\Source\Repos\PlumberCRM\PlumberCRM\PlumberCRM.DataAccessTest\obj\Debug\netcoreapp2.1\PlumberCRM.DataAccessTest.pdb

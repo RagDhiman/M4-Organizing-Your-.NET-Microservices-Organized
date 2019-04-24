@@ -1,0 +1,14 @@
+C:\Users\ragub\Source\Repos\JourneyStore\JourneyStore\JourneyStore\bin\Debug\netcoreapp2.2\JourneyStore.deps.json
+C:\Users\ragub\Source\Repos\JourneyStore\JourneyStore\JourneyStore\bin\Debug\netcoreapp2.2\JourneyStore.runtimeconfig.json
+C:\Users\ragub\Source\Repos\JourneyStore\JourneyStore\JourneyStore\bin\Debug\netcoreapp2.2\JourneyStore.runtimeconfig.dev.json
+C:\Users\ragub\Source\Repos\JourneyStore\JourneyStore\JourneyStore\bin\Debug\netcoreapp2.2\JourneyStore.dll
+C:\Users\ragub\Source\Repos\JourneyStore\JourneyStore\JourneyStore\bin\Debug\netcoreapp2.2\JourneyStore.pdb
+C:\Users\ragub\Source\Repos\JourneyStore\JourneyStore\JourneyStore\obj\Debug\netcoreapp2.2\JourneyStore.csprojAssemblyReference.cache
+C:\Users\ragub\Source\Repos\JourneyStore\JourneyStore\JourneyStore\obj\Debug\netcoreapp2.2\JourneyStore.csproj.CoreCompileInputs.cache
+C:\Users\ragub\Source\Repos\JourneyStore\JourneyStore\JourneyStore\obj\Debug\netcoreapp2.2\JourneyStore.RazorAssemblyInfo.cache
+C:\Users\ragub\Source\Repos\JourneyStore\JourneyStore\JourneyStore\obj\Debug\netcoreapp2.2\JourneyStore.RazorAssemblyInfo.cs
+C:\Users\ragub\Source\Repos\JourneyStore\JourneyStore\JourneyStore\obj\Debug\netcoreapp2.2\JourneyStore.AssemblyInfoInputs.cache
+C:\Users\ragub\Source\Repos\JourneyStore\JourneyStore\JourneyStore\obj\Debug\netcoreapp2.2\JourneyStore.AssemblyInfo.cs
+C:\Users\ragub\Source\Repos\JourneyStore\JourneyStore\JourneyStore\obj\Debug\netcoreapp2.2\JourneyStore.RazorTargetAssemblyInfo.cache
+C:\Users\ragub\Source\Repos\JourneyStore\JourneyStore\JourneyStore\obj\Debug\netcoreapp2.2\JourneyStore.dll
+C:\Users\ragub\Source\Repos\JourneyStore\JourneyStore\JourneyStore\obj\Debug\netcoreapp2.2\JourneyStore.pdb

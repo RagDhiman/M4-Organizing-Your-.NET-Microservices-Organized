@@ -1,0 +1,9 @@
+C:\Users\ragub\Source\Repos\RouteProviderTwo\RouteProviderOne\RouteProviderTwo.Core\bin\Debug\netstandard2.0\RouteProviderTwo.Core.deps.json
+C:\Users\ragub\Source\Repos\RouteProviderTwo\RouteProviderOne\RouteProviderTwo.Core\bin\Debug\netstandard2.0\RouteProviderTwo.Core.dll
+C:\Users\ragub\Source\Repos\RouteProviderTwo\RouteProviderOne\RouteProviderTwo.Core\bin\Debug\netstandard2.0\RouteProviderTwo.Core.pdb
+C:\Users\ragub\Source\Repos\RouteProviderTwo\RouteProviderOne\RouteProviderTwo.Core\obj\Debug\netstandard2.0\RouteProviderTwo.Core.csproj.CoreCompileInputs.cache
+C:\Users\ragub\Source\Repos\RouteProviderTwo\RouteProviderOne\RouteProviderTwo.Core\obj\Debug\netstandard2.0\RouteProviderTwo.Core.AssemblyInfoInputs.cache
+C:\Users\ragub\Source\Repos\RouteProviderTwo\RouteProviderOne\RouteProviderTwo.Core\obj\Debug\netstandard2.0\RouteProviderTwo.Core.AssemblyInfo.cs
+C:\Users\ragub\Source\Repos\RouteProviderTwo\RouteProviderOne\RouteProviderTwo.Core\obj\Debug\netstandard2.0\RouteProviderTwo.Core.dll
+C:\Users\ragub\Source\Repos\RouteProviderTwo\RouteProviderOne\RouteProviderTwo.Core\obj\Debug\netstandard2.0\RouteProviderTwo.Core.pdb
+C:\Users\ragub\Source\Repos\RouteProviderTwo\RouteProviderOne\RouteProviderTwo.Core\obj\Debug\netstandard2.0\RouteProviderTwo.Core.csprojAssemblyReference.cache

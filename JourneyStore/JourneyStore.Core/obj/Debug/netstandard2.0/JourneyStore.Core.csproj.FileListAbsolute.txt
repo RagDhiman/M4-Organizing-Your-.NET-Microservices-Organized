@@ -1,0 +1,9 @@
+C:\Users\ragub\Source\Repos\JourneyStore\JourneyStore\JourneyStore.Core\bin\Debug\netstandard2.0\JourneyStore.Core.deps.json
+C:\Users\ragub\Source\Repos\JourneyStore\JourneyStore\JourneyStore.Core\bin\Debug\netstandard2.0\JourneyStore.Core.dll
+C:\Users\ragub\Source\Repos\JourneyStore\JourneyStore\JourneyStore.Core\bin\Debug\netstandard2.0\JourneyStore.Core.pdb
+C:\Users\ragub\Source\Repos\JourneyStore\JourneyStore\JourneyStore.Core\obj\Debug\netstandard2.0\JourneyStore.Core.csprojAssemblyReference.cache
+C:\Users\ragub\Source\Repos\JourneyStore\JourneyStore\JourneyStore.Core\obj\Debug\netstandard2.0\JourneyStore.Core.csproj.CoreCompileInputs.cache
+C:\Users\ragub\Source\Repos\JourneyStore\JourneyStore\JourneyStore.Core\obj\Debug\netstandard2.0\JourneyStore.Core.AssemblyInfoInputs.cache
+C:\Users\ragub\Source\Repos\JourneyStore\JourneyStore\JourneyStore.Core\obj\Debug\netstandard2.0\JourneyStore.Core.AssemblyInfo.cs
+C:\Users\ragub\Source\Repos\JourneyStore\JourneyStore\JourneyStore.Core\obj\Debug\netstandard2.0\JourneyStore.Core.dll
+C:\Users\ragub\Source\Repos\JourneyStore\JourneyStore\JourneyStore.Core\obj\Debug\netstandard2.0\JourneyStore.Core.pdb

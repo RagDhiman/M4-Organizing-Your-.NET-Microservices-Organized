@@ -1,0 +1,14 @@
+C:\Users\ragub\Source\Repos\RouteProviderThree\RouteProviderThree\RouteProviderThree.DataAccessTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\ragub\Source\Repos\RouteProviderThree\RouteProviderThree\RouteProviderThree.DataAccessTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\ragub\Source\Repos\RouteProviderThree\RouteProviderThree\RouteProviderThree.DataAccessTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\ragub\Source\Repos\RouteProviderThree\RouteProviderThree\RouteProviderThree.DataAccessTest\bin\Debug\netcoreapp2.1\RouteProviderThree.DataAccessTest.deps.json
+C:\Users\ragub\Source\Repos\RouteProviderThree\RouteProviderThree\RouteProviderThree.DataAccessTest\bin\Debug\netcoreapp2.1\RouteProviderThree.DataAccessTest.runtimeconfig.json
+C:\Users\ragub\Source\Repos\RouteProviderThree\RouteProviderThree\RouteProviderThree.DataAccessTest\bin\Debug\netcoreapp2.1\RouteProviderThree.DataAccessTest.runtimeconfig.dev.json
+C:\Users\ragub\Source\Repos\RouteProviderThree\RouteProviderThree\RouteProviderThree.DataAccessTest\bin\Debug\netcoreapp2.1\RouteProviderThree.DataAccessTest.dll
+C:\Users\ragub\Source\Repos\RouteProviderThree\RouteProviderThree\RouteProviderThree.DataAccessTest\bin\Debug\netcoreapp2.1\RouteProviderThree.DataAccessTest.pdb
+C:\Users\ragub\Source\Repos\RouteProviderThree\RouteProviderThree\RouteProviderThree.DataAccessTest\obj\Debug\netcoreapp2.1\RouteProviderThree.DataAccessTest.csprojAssemblyReference.cache
+C:\Users\ragub\Source\Repos\RouteProviderThree\RouteProviderThree\RouteProviderThree.DataAccessTest\obj\Debug\netcoreapp2.1\RouteProviderThree.DataAccessTest.csproj.CoreCompileInputs.cache
+C:\Users\ragub\Source\Repos\RouteProviderThree\RouteProviderThree\RouteProviderThree.DataAccessTest\obj\Debug\netcoreapp2.1\RouteProviderThree.DataAccessTest.AssemblyInfoInputs.cache
+C:\Users\ragub\Source\Repos\RouteProviderThree\RouteProviderThree\RouteProviderThree.DataAccessTest\obj\Debug\netcoreapp2.1\RouteProviderThree.DataAccessTest.AssemblyInfo.cs
+C:\Users\ragub\Source\Repos\RouteProviderThree\RouteProviderThree\RouteProviderThree.DataAccessTest\obj\Debug\netcoreapp2.1\RouteProviderThree.DataAccessTest.dll
+C:\Users\ragub\Source\Repos\RouteProviderThree\RouteProviderThree\RouteProviderThree.DataAccessTest\obj\Debug\netcoreapp2.1\RouteProviderThree.DataAccessTest.pdb

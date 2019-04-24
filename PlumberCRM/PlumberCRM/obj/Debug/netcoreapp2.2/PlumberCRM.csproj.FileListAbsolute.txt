@@ -1,0 +1,14 @@
+C:\Users\ragub\Source\Repos\PlumberCRM\PlumberCRM\PlumberCRM\bin\Debug\netcoreapp2.2\PlumberCRM.deps.json
+C:\Users\ragub\Source\Repos\PlumberCRM\PlumberCRM\PlumberCRM\bin\Debug\netcoreapp2.2\PlumberCRM.runtimeconfig.json
+C:\Users\ragub\Source\Repos\PlumberCRM\PlumberCRM\PlumberCRM\bin\Debug\netcoreapp2.2\PlumberCRM.runtimeconfig.dev.json
+C:\Users\ragub\Source\Repos\PlumberCRM\PlumberCRM\PlumberCRM\bin\Debug\netcoreapp2.2\PlumberCRM.dll
+C:\Users\ragub\Source\Repos\PlumberCRM\PlumberCRM\PlumberCRM\bin\Debug\netcoreapp2.2\PlumberCRM.pdb
+C:\Users\ragub\Source\Repos\PlumberCRM\PlumberCRM\PlumberCRM\obj\Debug\netcoreapp2.2\PlumberCRM.csprojAssemblyReference.cache
+C:\Users\ragub\Source\Repos\PlumberCRM\PlumberCRM\PlumberCRM\obj\Debug\netcoreapp2.2\PlumberCRM.csproj.CoreCompileInputs.cache
+C:\Users\ragub\Source\Repos\PlumberCRM\PlumberCRM\PlumberCRM\obj\Debug\netcoreapp2.2\PlumberCRM.RazorAssemblyInfo.cache
+C:\Users\ragub\Source\Repos\PlumberCRM\PlumberCRM\PlumberCRM\obj\Debug\netcoreapp2.2\PlumberCRM.RazorAssemblyInfo.cs
+C:\Users\ragub\Source\Repos\PlumberCRM\PlumberCRM\PlumberCRM\obj\Debug\netcoreapp2.2\PlumberCRM.AssemblyInfoInputs.cache
+C:\Users\ragub\Source\Repos\PlumberCRM\PlumberCRM\PlumberCRM\obj\Debug\netcoreapp2.2\PlumberCRM.AssemblyInfo.cs
+C:\Users\ragub\Source\Repos\PlumberCRM\PlumberCRM\PlumberCRM\obj\Debug\netcoreapp2.2\PlumberCRM.RazorTargetAssemblyInfo.cache
+C:\Users\ragub\Source\Repos\PlumberCRM\PlumberCRM\PlumberCRM\obj\Debug\netcoreapp2.2\PlumberCRM.dll
+C:\Users\ragub\Source\Repos\PlumberCRM\PlumberCRM\PlumberCRM\obj\Debug\netcoreapp2.2\PlumberCRM.pdb

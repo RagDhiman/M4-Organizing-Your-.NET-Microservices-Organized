@@ -1,0 +1,9 @@
+C:\Users\ragub\Source\Repos\RouteProviderThree\RouteProviderThree\RouteProviderThree.DataAccess\bin\Debug\netstandard2.0\RouteProviderThree.DataAccess.deps.json
+C:\Users\ragub\Source\Repos\RouteProviderThree\RouteProviderThree\RouteProviderThree.DataAccess\bin\Debug\netstandard2.0\RouteProviderThree.DataAccess.dll
+C:\Users\ragub\Source\Repos\RouteProviderThree\RouteProviderThree\RouteProviderThree.DataAccess\bin\Debug\netstandard2.0\RouteProviderThree.DataAccess.pdb
+C:\Users\ragub\Source\Repos\RouteProviderThree\RouteProviderThree\RouteProviderThree.DataAccess\obj\Debug\netstandard2.0\RouteProviderThree.DataAccess.csprojAssemblyReference.cache
+C:\Users\ragub\Source\Repos\RouteProviderThree\RouteProviderThree\RouteProviderThree.DataAccess\obj\Debug\netstandard2.0\RouteProviderThree.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ragub\Source\Repos\RouteProviderThree\RouteProviderThree\RouteProviderThree.DataAccess\obj\Debug\netstandard2.0\RouteProviderThree.DataAccess.AssemblyInfoInputs.cache
+C:\Users\ragub\Source\Repos\RouteProviderThree\RouteProviderThree\RouteProviderThree.DataAccess\obj\Debug\netstandard2.0\RouteProviderThree.DataAccess.AssemblyInfo.cs
+C:\Users\ragub\Source\Repos\RouteProviderThree\RouteProviderThree\RouteProviderThree.DataAccess\obj\Debug\netstandard2.0\RouteProviderThree.DataAccess.dll
+C:\Users\ragub\Source\Repos\RouteProviderThree\RouteProviderThree\RouteProviderThree.DataAccess\obj\Debug\netstandard2.0\RouteProviderThree.DataAccess.pdb
